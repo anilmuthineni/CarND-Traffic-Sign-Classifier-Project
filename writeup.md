@@ -220,6 +220,7 @@ For the second image, the model is very sure that this is a "Speed limit (60km/h
 
 
 For the third image, the model is very sure that this is a "Bicycles crossing", and the image does contain a "Bicycles crossing". The top five soft max probabilities were
+
 |Probability|Prediction|
 |:---:|:---:|
 |1.000|Bicycles crossing|)
@@ -230,6 +231,7 @@ For the third image, the model is very sure that this is a "Bicycles crossing", 
 
 
 For the fourth image, the model is very sure that this is a "Road work", and the image does contain a "Road work". The top five soft max probabilities were
+
 |Probability|Prediction|
 |:---:|:---:|
 |1.000|Road work|)
@@ -240,6 +242,7 @@ For the fourth image, the model is very sure that this is a "Road work", and the
 
 
 For the fifth image, the model is very sure that this is a "Stop", and the image does contain a "Stop". The top five soft max probabilities were
+
 |Probability|Prediction|
 |:---:|:---:|
 |1.000|Stop|)
